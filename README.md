@@ -3,7 +3,7 @@
 
 Atividades em portugol resolvidas com o VisuAlg - cada arquivo corresponde a uma atividade aqui descrita.
 
-*Atividade_1* - Quantos KM é possível percorrer com X de combustível tendo uma media Y. Avise a cada 5km percorrido
+**Atividade_1** - Quantos KM é possível percorrer com X de combustível tendo uma media Y. Avise a cada 5km percorrido
 
 Atividade_2 - Em 8h de trabalho, quanto será produzido e quantas viagens serão necessárias, sabendo que se produz 300kg/min, levando em conta que a cada 10000kg produzido um trator leva o produzido e outro assume, assim não parando nunca.
  
