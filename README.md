@@ -1,5 +1,6 @@
 # Portugol
-=====================
+====================
+
 Atividades em portugol resolvidas com o VisuAlg - cada arquivo corresponde a uma atividade aqui descrita.
 
 Atividade_1 - Quantos KM é possível percorrer com X de combustível tendo uma media Y. Avise a cada 5km percorrido
